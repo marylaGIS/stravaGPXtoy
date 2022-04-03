@@ -1,0 +1,20 @@
+[general]
+name=stravaGPXtoy
+qgisMinimumVersion=3.0
+description=Plugin to load Strava .gpx data and manipulate them.
+version=0.1
+author=marylaGIS
+email=marylaGISdev@gmail.com
+tags=gpx, strava, bike, cycling
+
+about=What this plugin does:
+	- loads .gpx files
+	- styles layers with Strava color theme
+	- deletes unneceseary, empty attributes from gpx layers
+
+homepage=https://github.com/marylaGIS/stravaGPXtoy
+repository=https://github.com/marylaGIS/stravaGPXtoy
+tracker=https://github.com/marylaGIS/stravaGPXtoy/issues
+
+category=Plugins
+icon=icon1.png
